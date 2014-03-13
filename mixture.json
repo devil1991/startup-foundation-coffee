@@ -6,12 +6,9 @@
   "preprocessorLocations": "assets",
   "preprocessorScriptOutput": "assets/js",
   "preprocessorStyleOutput": "assets/css",
-  "projectDescription": "The most advanced responsive front-end framework in the world.",
-  "projectName": "Rename this to Project",
+  "projectDescription": "A simple empty boilerplate for a fresh start",
+  "projectName": "StartUp-CoffeeJS",
   "publishedId": null,
-  "sass": {
-    "useLibSass": false
-  },
   "serverHostname": null,
   "serverPort": null,
   "simpleModePartnerServer": null,
