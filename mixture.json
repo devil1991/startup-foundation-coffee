@@ -1,0 +1,31 @@
+{
+  "debug": false,
+  "domain": null,
+  "lintScripts": false,
+  "modelSource": null,
+  "preprocessorLocations": "assets",
+  "preprocessorScriptOutput": "assets/js",
+  "preprocessorStyleOutput": "assets/css",
+  "projectDescription": "The most advanced responsive front-end framework in the world.",
+  "projectName": "Rename this to Project",
+  "publishedId": null,
+  "sass": {
+    "useLibSass": false
+  },
+  "serverHostname": null,
+  "serverPort": null,
+  "simpleModePartnerServer": null,
+  "templateDefaultLayout": "layout",
+  "templateDefaultPage": "index",
+  "templateDirectory": "templates",
+  "type": "mixture",
+  "autoPrefixer": {
+    "active": true,
+    "browsers": [
+      "last 10 version",
+      "Firefox >= 15",
+      "ie 8"
+    ]
+},
+  "useCompass": false
+}
